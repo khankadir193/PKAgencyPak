@@ -68,3 +68,5 @@ const getDataFromGoogleSheets2 = (SHEET_ID,RANGE,SHEET_TITLE,tableNo) => {
   getDataFromGoogleSheets2("11ZLpOSrhZISYYzGusflZZA3FcXkznRKfvaO_t9hzKJA","B46:E48","Dec 23 Agency PK Battle","1");
   getDataFromGoogleSheets2("11ZLpOSrhZISYYzGusflZZA3FcXkznRKfvaO_t9hzKJA","B50:E52","Dec 23 Agency PK Battle","2");
   getDataFromGoogleSheets2("11ZLpOSrhZISYYzGusflZZA3FcXkznRKfvaO_t9hzKJA","B54:E56","Dec 23 Agency PK Battle","3");
+  getDataFromGoogleSheets2("11ZLpOSrhZISYYzGusflZZA3FcXkznRKfvaO_t9hzKJA","B64:E66","Dec 23 Agency PK Battle","4");
+  getDataFromGoogleSheets2("11ZLpOSrhZISYYzGusflZZA3FcXkznRKfvaO_t9hzKJA","B69:E71","Dec 23 Agency PK Battle","5");
